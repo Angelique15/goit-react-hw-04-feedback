@@ -1,0 +1,4 @@
+# env_file.yml
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ENVIRONMENT: production
